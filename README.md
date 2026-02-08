@@ -1,5 +1,6 @@
 **Project Title**
 Interactive Financial Analytics Dashboard Using Power BI
+
 **Project Objectives**
 To analyze financial and transactional data using Power BI for better business insights.
 To transform raw Excel data into meaningful and interactive visual dashboards.
@@ -14,6 +15,7 @@ To support data-driven decision-making through dynamic reports and filters.
 -<a href="https://github.com/swethagm2004-max/Power-Bi-Data-analysis/blob/main/customer_shopping_behavior.xlsx">Dataset</a>
 
 **Project Process**
+
 Data Collection
 Financial and transactional data was collected in Excel format, including details such as transactions, loan amounts, EMI, branches, and dates.
 Data Cleaning
