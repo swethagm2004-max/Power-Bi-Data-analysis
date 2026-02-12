@@ -12,7 +12,7 @@ To support data-driven decision-making through dynamic reports and filters.
 
 **##dataset-used**
 
--<a href="https://github.com/swethagm2004-max/Power-Bi-Data-analysis/blob/main/customer_shopping_behavior.xlsx">Dataset</a>
+-<a href="https://github.com/swethagm2004-max/Customer-Behaviour-Power-Bi-Dashboard/blob/main/customer_shopping_behavior.xlsx)">Dataset</a>
 
 **Project Process**
 
@@ -45,7 +45,7 @@ The Financial Performance and Transaction Analysis Dashboard developed using Pow
 Through effective data cleaning, modeling, and visualization, the project enables quick identification of key financial metrics and performance indicators. The use of interactive filters and KPIs enhances decision-making by allowing users to analyze data across different time periods and categories. Overall, this project demonstrates the effectiveness of Power BI as a powerful tool for financial data analysis and supports data-driven business decisions.
 
 **Dashboard**
--<a href="https://github.com/swethagm2004-max/Power-Bi-Data-analysis/blob/main/customer_behavior_dashboard.pbix">Dashboard</a>
+-<a href="https://github.com/swethagm2004-max/Customer-Behaviour-Power-Bi-Dashboard/blob/main/customer_behavior_dashboard.pbix">Dashboard</a>
 
 
 
